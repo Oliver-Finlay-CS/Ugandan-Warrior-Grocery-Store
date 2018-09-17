@@ -14,4 +14,4 @@ Im gonna go the thing with the do and the thing and the thingy thing thing so it
 - [x] Look up at the board at least 3 times
 - [x] Listen to the construction noises
 - [x] Make to do list
-      - [x] Be amazed at Mercers teaching
+- [x] Be amazed at Mercers teaching
